@@ -1,0 +1,5 @@
+CREATE TABLE todolists (
+    id INT NOT NULL AUTO_INCREMENT,
+    todo VARCHAR(200) NOT NULL,
+    PRIMARY KEY (id)
+);
