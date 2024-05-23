@@ -15,7 +15,7 @@ Sistem ini adalah commnad-line interface (CLI) yang memberikan kemampuan mengelo
     - Frameworks: Maven, JUnit Jupiter, HikariCP
 
 ### Installation
-     Clone the repository: 
+     Clone repository: `https://github.com/zennsketchy/ComprehensiveTodoListCLI.git`
 
      Setup configure MySQL Database: `src/main/resources/application.properties`.
 
